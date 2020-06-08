@@ -10,7 +10,7 @@ List assignment of tasks
 * [A1-4] 'CCleaner'
 * [A1-5] 'Pedant coder'
 
-# 1. Assignment 2.
+# 2. Assignment 2.
 [>> Assignment 2](https://github.com/Gbolly007/AdvancedPython/tree/master/Assignment2) 
 List assignment of tasks
 * [A2-1] As2_Number1
