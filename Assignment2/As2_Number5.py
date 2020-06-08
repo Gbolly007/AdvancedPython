@@ -239,7 +239,11 @@ def comparepy():
 # details of byte instruction for each file is printed
             result = "| ".join(str(key) + ' ' + str(value)
                                for key, value in dt.items())
+            print(
+                '----------------------------------------------------------------------------------')
             print(getfilename+' |' + ' '+result)
+            print(
+                '----------------------------------------------------------------------------------')
         except IOError:
             print('File not accessible!')
 
@@ -282,7 +286,11 @@ def comparepyc():
             result = "| ".join(str(key) + ' ' + str(value)
                                for key, value in dt.items())
 # details of byte instruction for each file is printed
+            print(
+                '----------------------------------------------------------------------------------')
             print(getfilename+' |' + ' '+result)
+            print(
+                '----------------------------------------------------------------------------------')
 
         except IOError:
             print('File not accessible!')
@@ -315,7 +323,9 @@ def comparecodesnippet():
         result = "| ".join(str(key) + ' ' + str(value)
                            for key, value in dt.items())
 # details of byte instruction for each file is printed
+        print('----------------------------------------------------------------------------------')
         print(c + ' |' + ' '+result)
+        print('----------------------------------------------------------------------------------')
 
 
 # Input to determine if users wants to generate
