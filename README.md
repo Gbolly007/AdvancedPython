@@ -1,7 +1,7 @@
 # Advanced Python Programming - Assignment 1
 
 This is the GitHub repository for Advanced Python Programming Assignments for Team 6. Below are the list of the assignments and their links.
-# 1. Assignment 1.
+# Assignment 1.
 [>> Assignment 1](https://github.com/Gbolly007/AdvancedPython/tree/master/Assignment1) 
 List assignment of tasks
 * [A1-1] 'Shell creator'
@@ -10,7 +10,7 @@ List assignment of tasks
 * [A1-4] 'CCleaner'
 * [A1-5] 'Pedant coder'
 
-# 2. Assignment 2.
+# Assignment 2.
 [>> Assignment 2](https://github.com/Gbolly007/AdvancedPython/tree/master/Assignment2) 
 List assignment of tasks
 * [A2-1] As2_Number1
