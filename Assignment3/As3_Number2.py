@@ -1,3 +1,4 @@
+# Python version 3.7.6
 import inspect
 from inspect import signature
 from tabulate import tabulate
@@ -40,4 +41,3 @@ def foo(bar1, bar2=""):
 
 if __name__ == "__main__":
     foo(None, bar2="")
-
