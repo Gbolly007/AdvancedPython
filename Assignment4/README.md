@@ -13,6 +13,6 @@ Deriving operands from previous notation: n = n1 + n2, N = N1 + N2, ....
 Give us an intuitive explanation why the formula of estimating program length uses logarithm to base 2
 
 # 5. 
-Formating and documenting cose
+Formating and documenting code
 
 [>> See Assignment Details ](https://github.com/Gbolly007/AdvancedPython/tree/master/Assignment4/Assignment_4.pdf) 
