@@ -32,7 +32,9 @@ List assignment of tasks
 # Assignment 4.
 [>> Assignment 4](https://github.com/Gbolly007/AdvancedPython/tree/master/Assignment4) 
 List assignment of tasks
-* [A4] main.py
+* [A4-1] As4_Number1
+* [A4-2] As4_Number2
+* [A4-3] As4_Number3
 
 
 [A1-1]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment1/Number1.py>
@@ -54,4 +56,6 @@ List assignment of tasks
 [A3-5]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment3/As3_Number5.py>
 [A3-reflect]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment3/reflect.py>
 
-[A4]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment4/main.py>
+[A4-1]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment4/As4_Number1.py>
+[A4-2]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment4/As4_Number2.py>
+[A4-3]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment4/As4_Number3.py>
