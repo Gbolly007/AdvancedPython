@@ -47,11 +47,12 @@ List assignment of tasks
 # Assignment 6.
 [>> Assignment 6](https://github.com/Gbolly007/AdvancedPython/tree/master/Assignment6) 
 List assignment of tasks
-* [A4-1] As6_Number1
-* [A4-2] As6_Number2
-* [A4-3] As6_Number3
-* [A4-4] As6_Number4
-* [A4-5] As6_Number5
+* [A6-Q1] Question 1
+* [A6-1] As6_Number1
+* [A6-2] As6_Number2
+* [A6-3] As6_Number3
+* [A6-4] As6_Number4
+* [A6-5] As6_Number5
 
 
 [A1-1]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment1/Number1.py>
