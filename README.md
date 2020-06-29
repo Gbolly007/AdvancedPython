@@ -54,6 +54,15 @@ List assignment of tasks
 * [A6-4] As6_Number4
 * [A6-5] As6_Number5
 
+# Assignment 7.
+[>> Assignment 7](https://github.com/Gbolly007/AdvancedPython/tree/master/Assignment7) 
+List assignment of tasks
+* [A7-1] As7_Number1
+* [A7-2] As7_Number2
+* [A7-3] As7_Number3
+* [A7-5] As7_Number5
+* [A7-5.2] As7_Number5.2
+
 
 [A1-1]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment1/Number1.py>
 [A1-2]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment1/Number2.py>
@@ -89,3 +98,9 @@ List assignment of tasks
 [A6-3]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment6/As6_Number3.py>
 [A6-4]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment6/As6_Number4.py>
 [A6-5]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment6/As6_Number5.py>
+
+[A7-1]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment7/As7_Number1.py>
+[A7-2]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment7/As7_Number2.py>
+[A7-3]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment7/As7_Number3.py>
+[A7-5]: <https://github.com/Gbolly007/AdvancedPython/blob/master/Assignment7/As7_Number5.py>
+[A7-5.2]: <https://github.com/Gbolly007/AdvancedPython/tree/master/Assignment7>
